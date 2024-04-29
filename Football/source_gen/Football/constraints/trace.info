@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070475587102:jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <root>
+    <file name="ConstraintsAspectDescriptor.java">
+      <unit at="13,0,29,0" name="Football.constraints.ConstraintsAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:85fe1ec3-4a91-4a19-87c3-0eac1d7476f2(Football.constraints)/4031479720644054479">
+    <file name="Match_Constraints.java">
+      <node id="4031479720644054479" at="10,30,11,29" concept="2" />
+      <node id="4031479720644054479" at="15,0,16,0" concept="1" trace="Match$3m" />
+      <node id="4031479720644054479" at="10,0,13,0" concept="0" trace="Match_Constraints#()V" />
+      <scope id="4031479720644054479" at="10,30,11,29" />
+      <scope id="4031479720644054479" at="10,0,13,0" />
+      <unit id="4031479720644054479" at="14,0,17,0" name="Football.constraints.Match_Constraints$CONCEPTS" />
+      <unit id="4031479720644054479" at="9,0,18,0" name="Football.constraints.Match_Constraints" />
+    </file>
+  </root>
+</debug-info>
+

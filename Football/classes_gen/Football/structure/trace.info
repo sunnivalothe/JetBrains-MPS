@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070475587102:jetbrains.mps.baseLanguage.structure.SuperConstructorInvocation" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1163670490218:jetbrains.mps.baseLanguage.structure.SwitchStatement" />
+  <root>
+    <file name="ConceptPresentationAspectImpl.java">
+      <unit at="11,0,78,0" name="Football.structure.ConceptPresentationAspectImpl" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <unit at="10,0,40,0" name="Football.structure.LanguageConceptSwitch" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <unit at="18,0,161,0" name="Football.structure.StructureAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:773d5fe7-79b0-4318-a269-1850a325c198(Football.structure)/4031479720643266354">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4031479720643266354" at="16,0,17,0" concept="2" trace="props_Match" />
+      <node id="4031479720643266354" at="54,34,55,76" concept="5" />
+      <node id="4031479720643266354" at="55,76,56,35" concept="1" />
+      <node id="4031479720643266354" at="56,35,57,37" concept="1" />
+      <node id="4031479720643266354" at="58,9,59,27" concept="6" />
+      <node id="4031479720643266354" at="53,39,58,9" concept="3" />
+      <scope id="4031479720643266354" at="54,34,57,37">
+        <var name="cpb" id="4031479720643266354" />
+      </scope>
+      <scope id="4031479720643266354" at="53,39,59,27" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4031479720643266354" at="16,0,17,0" concept="7" trace="Match" />
+      <node id="4031479720643266354" at="25,45,26,44" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4031479720643266354" at="23,0,24,0" concept="2" trace="myConceptMatch" />
+      <node id="4031479720643266354" at="59,39,60,30" concept="6" />
+      <node id="4031479720643266354" at="117,63,118,148" concept="5" />
+      <node id="4031479720643266354" at="118,148,119,33" concept="1" />
+      <node id="4031479720643266354" at="119,33,120,71" concept="1" />
+      <node id="4031479720643266354" at="120,71,121,95" concept="1" />
+      <node id="4031479720643266354" at="121,95,122,17" concept="1" />
+      <node id="4031479720644310560" at="122,17,123,114" concept="1" />
+      <node id="4031479720644310570" at="123,114,124,110" concept="1" />
+      <node id="4031479720644310576" at="124,110,125,122" concept="1" />
+      <node id="4031479720644310583" at="125,122,126,122" concept="1" />
+      <node id="4031479720645897165" at="126,122,127,185" concept="1" />
+      <node id="4031479720645897171" at="127,185,128,185" concept="1" />
+      <node id="4031479720644054515" at="128,185,129,199" concept="1" />
+      <node id="4031479720644310597" at="129,199,130,198" concept="1" />
+      <node id="4031479720644852810" at="130,198,131,198" concept="1" />
+      <node id="4031479720643266354" at="131,198,132,37" concept="1" />
+      <node id="4031479720643266354" at="132,37,133,22" concept="6" />
+      <node id="4031479720643266354" at="117,0,135,0" concept="8" trace="createDescriptorForMatch#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4031479720643266354" at="59,39,60,30" />
+      <scope id="4031479720643266354" at="117,63,133,22">
+        <var name="b" id="4031479720643266354" />
+      </scope>
+      <scope id="4031479720643266354" at="117,0,135,0" />
+    </file>
+  </root>
+  <root nodeRef="r:773d5fe7-79b0-4318-a269-1850a325c198(Football.structure)/4031479720643290701">
+    <file name="EnumerationDescriptor_FieldSize.java">
+      <node id="4031479720643290701" at="14,44,15,168" concept="9" />
+      <node id="4031479720643290702" at="18,0,19,0" concept="2" trace="myMember_Eleven_0" />
+      <node id="4031479720643290707" at="19,0,20,0" concept="2" trace="myMember_Nine_0" />
+      <node id="4031479720646893883" at="20,0,21,0" concept="2" trace="myMember_Seven_0" />
+      <node id="4031479720643290711" at="21,0,22,0" concept="2" trace="myMember_Five_0" />
+      <node id="4031479720643290715" at="22,0,23,0" concept="2" trace="myMember_Three_0" />
+      <node id="4031479720643290701" at="24,0,25,0" concept="2" trace="myIndex" />
+      <node id="4031479720643290701" at="25,0,26,0" concept="2" trace="myMembers" />
+      <node id="4031479720643290701" at="29,62,30,29" concept="6" />
+      <node id="4031479720643290701" at="35,68,36,21" concept="6" />
+      <node id="4031479720643290701" at="42,29,43,18" concept="6" />
+      <node id="4031479720643290702" at="46,20,47,33" concept="6" />
+      <node id="4031479720643290707" at="48,18,49,31" concept="6" />
+      <node id="4031479720646893883" at="50,19,51,32" concept="6" />
+      <node id="4031479720643290711" at="52,18,53,31" concept="6" />
+      <node id="4031479720643290715" at="54,19,55,32" concept="6" />
+      <node id="4031479720643290701" at="56,5,57,16" concept="6" />
+      <node id="4031479720643290701" at="62,73,63,39" concept="5" />
+      <node id="4031479720643290701" at="64,22,65,18" concept="6" />
+      <node id="4031479720643290701" at="66,5,67,32" concept="6" />
+      <node id="4031479720643290701" at="14,0,17,0" concept="0" trace="EnumerationDescriptor_FieldSize#()V" />
+      <node id="4031479720643290701" at="41,88,44,5" concept="3" />
+      <node id="4031479720643290701" at="63,39,66,5" concept="3" />
+      <node id="4031479720643290701" at="27,0,32,0" concept="4" trace="getDefault#()Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="4031479720643290701" at="33,0,38,0" concept="4" trace="getMembers#()Ljava/util/List;" />
+      <node id="4031479720643290701" at="60,0,69,0" concept="4" trace="getMember#(J)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="4031479720643290701" at="44,5,56,5" concept="10" />
+      <node id="4031479720643290701" at="39,0,59,0" concept="4" trace="getMember#(Ljava/lang/String;)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <scope id="4031479720643290701" at="14,44,15,168" />
+      <scope id="4031479720643290701" at="29,62,30,29" />
+      <scope id="4031479720643290701" at="35,68,36,21" />
+      <scope id="4031479720643290701" at="42,29,43,18" />
+      <scope id="4031479720643290702" at="46,20,47,33" />
+      <scope id="4031479720643290707" at="48,18,49,31" />
+      <scope id="4031479720646893883" at="50,19,51,32" />
+      <scope id="4031479720643290711" at="52,18,53,31" />
+      <scope id="4031479720643290715" at="54,19,55,32" />
+      <scope id="4031479720643290701" at="64,22,65,18" />
+      <scope id="4031479720643290701" at="14,0,17,0" />
+      <scope id="4031479720643290701" at="27,0,32,0" />
+      <scope id="4031479720643290701" at="33,0,38,0" />
+      <scope id="4031479720643290701" at="62,73,67,32">
+        <var name="index" id="4031479720643290701" />
+      </scope>
+      <scope id="4031479720643290701" at="60,0,69,0">
+        <var name="idValue" id="4031479720643290701" />
+      </scope>
+      <scope id="4031479720643290701" at="41,88,57,16" />
+      <scope id="4031479720643290701" at="39,0,59,0">
+        <var name="memberName" id="4031479720643290701" />
+      </scope>
+      <unit id="4031479720643290701" at="12,0,70,0" name="Football.structure.EnumerationDescriptor_FieldSize" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4031479720643290701" at="26,0,27,0" concept="2" trace="myEnumerationFieldSize" />
+    </file>
+  </root>
+  <root nodeRef="r:773d5fe7-79b0-4318-a269-1850a325c198(Football.structure)/4031479720643290735">
+    <file name="EnumerationDescriptor_FieldType.java">
+      <node id="4031479720643290735" at="14,44,15,168" concept="9" />
+      <node id="4031479720643290736" at="18,0,19,0" concept="2" trace="myMember_ArtificialGrass_0" />
+      <node id="4031479720643290738" at="19,0,20,0" concept="2" trace="myMember_NaturalGrass_0" />
+      <node id="4031479720643290741" at="20,0,21,0" concept="2" trace="myMember_Hybrid_0" />
+      <node id="4031479720643290735" at="22,0,23,0" concept="2" trace="myIndex" />
+      <node id="4031479720643290735" at="23,0,24,0" concept="2" trace="myMembers" />
+      <node id="4031479720643290735" at="27,62,28,38" concept="6" />
+      <node id="4031479720643290735" at="33,68,34,21" concept="6" />
+      <node id="4031479720643290735" at="40,29,41,18" concept="6" />
+      <node id="4031479720643290736" at="44,29,45,42" concept="6" />
+      <node id="4031479720643290738" at="46,26,47,39" concept="6" />
+      <node id="4031479720643290741" at="48,20,49,33" concept="6" />
+      <node id="4031479720643290735" at="50,5,51,16" concept="6" />
+      <node id="4031479720643290735" at="56,73,57,39" concept="5" />
+      <node id="4031479720643290735" at="58,22,59,18" concept="6" />
+      <node id="4031479720643290735" at="60,5,61,32" concept="6" />
+      <node id="4031479720643290735" at="14,0,17,0" concept="0" trace="EnumerationDescriptor_FieldType#()V" />
+      <node id="4031479720643290735" at="39,88,42,5" concept="3" />
+      <node id="4031479720643290735" at="57,39,60,5" concept="3" />
+      <node id="4031479720643290735" at="25,0,30,0" concept="4" trace="getDefault#()Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="4031479720643290735" at="31,0,36,0" concept="4" trace="getMembers#()Ljava/util/List;" />
+      <node id="4031479720643290735" at="42,5,50,5" concept="10" />
+      <node id="4031479720643290735" at="54,0,63,0" concept="4" trace="getMember#(J)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="4031479720643290735" at="37,0,53,0" concept="4" trace="getMember#(Ljava/lang/String;)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <scope id="4031479720643290735" at="14,44,15,168" />
+      <scope id="4031479720643290735" at="27,62,28,38" />
+      <scope id="4031479720643290735" at="33,68,34,21" />
+      <scope id="4031479720643290735" at="40,29,41,18" />
+      <scope id="4031479720643290736" at="44,29,45,42" />
+      <scope id="4031479720643290738" at="46,26,47,39" />
+      <scope id="4031479720643290741" at="48,20,49,33" />
+      <scope id="4031479720643290735" at="58,22,59,18" />
+      <scope id="4031479720643290735" at="14,0,17,0" />
+      <scope id="4031479720643290735" at="25,0,30,0" />
+      <scope id="4031479720643290735" at="31,0,36,0" />
+      <scope id="4031479720643290735" at="56,73,61,32">
+        <var name="index" id="4031479720643290735" />
+      </scope>
+      <scope id="4031479720643290735" at="54,0,63,0">
+        <var name="idValue" id="4031479720643290735" />
+      </scope>
+      <scope id="4031479720643290735" at="39,88,51,16" />
+      <scope id="4031479720643290735" at="37,0,53,0">
+        <var name="memberName" id="4031479720643290735" />
+      </scope>
+      <unit id="4031479720643290735" at="12,0,64,0" name="Football.structure.EnumerationDescriptor_FieldType" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4031479720643290735" at="27,0,28,0" concept="2" trace="myEnumerationFieldType" />
+    </file>
+  </root>
+  <root nodeRef="r:773d5fe7-79b0-4318-a269-1850a325c198(Football.structure)/4031479720643290746">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4031479720643290746" at="17,0,18,0" concept="2" trace="props_Player" />
+      <node id="4031479720643290746" at="61,35,62,76" concept="5" />
+      <node id="4031479720643290746" at="62,76,63,40" concept="1" />
+      <node id="4031479720643290746" at="63,40,64,38" concept="1" />
+      <node id="4031479720643290746" at="65,9,66,28" concept="6" />
+      <node id="4031479720643290746" at="60,40,65,9" concept="3" />
+      <scope id="4031479720643290746" at="61,35,64,38">
+        <var name="cpb" id="4031479720643290746" />
+      </scope>
+      <scope id="4031479720643290746" at="60,40,66,28" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4031479720643290746" at="17,0,18,0" concept="7" trace="Player" />
+      <node id="4031479720643290746" at="26,44,27,45" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4031479720643290746" at="24,0,25,0" concept="2" trace="myConceptPlayer" />
+      <node id="4031479720643290746" at="61,40,62,31" concept="6" />
+      <node id="4031479720643290746" at="135,64,136,149" concept="5" />
+      <node id="4031479720643290746" at="136,149,137,34" concept="1" />
+      <node id="4031479720643290746" at="137,34,138,95" concept="1" />
+      <node id="4031479720643290746" at="138,95,139,17" concept="1" />
+      <node id="4031479720643300355" at="139,17,140,115" concept="1" />
+      <node id="4031479720643293062" at="140,115,141,113" concept="1" />
+      <node id="4031479720643293066" at="141,113,142,113" concept="1" />
+      <node id="4031479720643478890" at="142,113,143,179" concept="1" />
+      <node id="4031479720645611515" at="143,179,144,118" concept="1" />
+      <node id="4031479720645611521" at="144,118,145,115" concept="1" />
+      <node id="4031479720643290746" at="145,115,146,22" concept="1" />
+      <node id="4031479720643290746" at="146,22,147,22" concept="6" />
+      <node id="4031479720643290746" at="135,0,149,0" concept="8" trace="createDescriptorForPlayer#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4031479720643290746" at="61,40,62,31" />
+      <scope id="4031479720643290746" at="135,64,147,22">
+        <var name="b" id="4031479720643290746" />
+      </scope>
+      <scope id="4031479720643290746" at="135,0,149,0" />
+    </file>
+  </root>
+  <root nodeRef="r:773d5fe7-79b0-4318-a269-1850a325c198(Football.structure)/4031479720643290747">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4031479720643290747" at="18,0,19,0" concept="2" trace="props_Team" />
+      <node id="4031479720643290747" at="68,33,69,76" concept="5" />
+      <node id="4031479720643290747" at="69,76,70,35" concept="1" />
+      <node id="4031479720643290747" at="70,35,71,36" concept="1" />
+      <node id="4031479720643290747" at="72,9,73,26" concept="6" />
+      <node id="4031479720643290747" at="67,38,72,9" concept="3" />
+      <scope id="4031479720643290747" at="68,33,71,36">
+        <var name="cpb" id="4031479720643290747" />
+      </scope>
+      <scope id="4031479720643290747" at="67,38,73,26" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4031479720643290747" at="18,0,19,0" concept="7" trace="Team" />
+      <node id="4031479720643290747" at="27,45,28,43" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4031479720643290747" at="25,0,26,0" concept="2" trace="myConceptTeam" />
+      <node id="4031479720643290747" at="63,38,64,29" concept="6" />
+      <node id="4031479720643290747" at="149,62,150,147" concept="5" />
+      <node id="4031479720643290747" at="150,147,151,33" concept="1" />
+      <node id="4031479720643290747" at="151,33,152,71" concept="1" />
+      <node id="4031479720643290747" at="152,71,153,95" concept="1" />
+      <node id="4031479720643290747" at="153,95,154,17" concept="1" />
+      <node id="4031479720643543711" at="154,17,155,198" concept="1" />
+      <node id="4031479720643293070" at="155,198,156,199" concept="1" />
+      <node id="4031479720643290747" at="156,199,157,27" concept="1" />
+      <node id="4031479720643290747" at="157,27,158,22" concept="6" />
+      <node id="4031479720643290747" at="149,0,160,0" concept="8" trace="createDescriptorForTeam#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4031479720643290747" at="63,38,64,29" />
+      <scope id="4031479720643290747" at="149,62,158,22">
+        <var name="b" id="4031479720643290747" />
+      </scope>
+      <scope id="4031479720643290747" at="149,0,160,0" />
+    </file>
+  </root>
+  <root nodeRef="r:773d5fe7-79b0-4318-a269-1850a325c198(Football.structure)/4031479720643293074">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4031479720643293074" at="12,0,13,0" concept="2" trace="props_Badge" />
+      <node id="4031479720643293074" at="26,34,27,76" concept="5" />
+      <node id="4031479720643293074" at="27,76,28,39" concept="1" />
+      <node id="4031479720643293074" at="28,39,29,37" concept="1" />
+      <node id="4031479720643293074" at="30,9,31,27" concept="6" />
+      <node id="4031479720643293074" at="25,39,30,9" concept="3" />
+      <scope id="4031479720643293074" at="26,34,29,37">
+        <var name="cpb" id="4031479720643293074" />
+      </scope>
+      <scope id="4031479720643293074" at="25,39,31,27" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4031479720643293074" at="12,0,13,0" concept="7" trace="Badge" />
+      <node id="4031479720643293074" at="21,116,22,44" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4031479720643293074" at="19,0,20,0" concept="2" trace="myConceptBadge" />
+      <node id="4031479720643293074" at="51,39,52,30" concept="6" />
+      <node id="4031479720643293074" at="79,63,80,148" concept="5" />
+      <node id="4031479720643293074" at="80,148,81,34" concept="1" />
+      <node id="4031479720643293074" at="81,34,82,95" concept="1" />
+      <node id="4031479720643293074" at="82,95,83,17" concept="1" />
+      <node id="4031479720643384340" at="83,17,84,109" concept="1" />
+      <node id="4031479720643384343" at="84,109,85,111" concept="1" />
+      <node id="4031479720643384346" at="85,111,86,112" concept="1" />
+      <node id="4031479720643384350" at="86,112,87,115" concept="1" />
+      <node id="4031479720643293074" at="87,115,88,21" concept="1" />
+      <node id="4031479720643293074" at="88,21,89,22" concept="6" />
+      <node id="4031479720643293074" at="79,0,91,0" concept="8" trace="createDescriptorForBadge#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4031479720643293074" at="51,39,52,30" />
+      <scope id="4031479720643293074" at="79,63,89,22">
+        <var name="b" id="4031479720643293074" />
+      </scope>
+      <scope id="4031479720643293074" at="79,0,91,0" />
+    </file>
+  </root>
+  <root nodeRef="r:773d5fe7-79b0-4318-a269-1850a325c198(Football.structure)/4031479720643384369">
+    <file name="EnumerationDescriptor_Positions.java">
+      <node id="4031479720643384369" at="14,44,15,168" concept="9" />
+      <node id="4031479720643384370" at="18,0,19,0" concept="2" trace="myMember_Goalkeeper_0" />
+      <node id="4031479720643384375" at="19,0,20,0" concept="2" trace="myMember_RightBack_0" />
+      <node id="4031479720643384381" at="20,0,21,0" concept="2" trace="myMember_RightWingBack_0" />
+      <node id="4031479720643384385" at="21,0,22,0" concept="2" trace="myMember_LeftBack_0" />
+      <node id="4031479720643384390" at="22,0,23,0" concept="2" trace="myMember_LeftWingBack_0" />
+      <node id="4031479720643384396" at="23,0,24,0" concept="2" trace="myMember_Sweeper_0" />
+      <node id="4031479720643384417" at="24,0,25,0" concept="2" trace="myMember_CenterBack_0" />
+      <node id="4031479720643384425" at="25,0,26,0" concept="2" trace="myMember_CentralDefensiveMidfield_0" />
+      <node id="4031479720643384434" at="26,0,27,0" concept="2" trace="myMember_CentralMidfield_0" />
+      <node id="4031479720643384444" at="27,0,28,0" concept="2" trace="myMember_CentralAttackingMidfield_0" />
+      <node id="4031479720643384455" at="28,0,29,0" concept="2" trace="myMember_RightMidfield_0" />
+      <node id="4031479720643384467" at="29,0,30,0" concept="2" trace="myMember_RightWing_0" />
+      <node id="4031479720643384480" at="30,0,31,0" concept="2" trace="myMember_SecondStriker_0" />
+      <node id="4031479720643384494" at="31,0,32,0" concept="2" trace="myMember_CentreForward_0" />
+      <node id="4031479720643384509" at="32,0,33,0" concept="2" trace="myMember_Striker_0" />
+      <node id="4031479720643384525" at="33,0,34,0" concept="2" trace="myMember_LeftMidfield_0" />
+      <node id="4031479720643384542" at="34,0,35,0" concept="2" trace="myMember_LeftWing_0" />
+      <node id="4031479720643521010" at="35,0,36,0" concept="2" trace="myMember_Defense_0" />
+      <node id="4031479720643521029" at="36,0,37,0" concept="2" trace="myMember_Midfield_0" />
+      <node id="4031479720643521049" at="37,0,38,0" concept="2" trace="myMember_Forward_0" />
+      <node id="4031479720643384369" at="39,0,40,0" concept="2" trace="myIndex" />
+      <node id="4031479720643384369" at="40,0,41,0" concept="2" trace="myMembers" />
+      <node id="4031479720643384369" at="44,62,45,16" concept="6" />
+      <node id="4031479720643384369" at="50,68,51,21" concept="6" />
+      <node id="4031479720643384369" at="57,29,58,18" concept="6" />
+      <node id="4031479720643384370" at="61,24,62,37" concept="6" />
+      <node id="4031479720643384375" at="63,23,64,36" concept="6" />
+      <node id="4031479720643384381" at="65,27,66,40" concept="6" />
+      <node id="4031479720643384385" at="67,22,68,35" concept="6" />
+      <node id="4031479720643384390" at="69,26,70,39" concept="6" />
+      <node id="4031479720643384396" at="71,21,72,34" concept="6" />
+      <node id="4031479720643384417" at="73,24,74,37" concept="6" />
+      <node id="4031479720643384425" at="75,38,76,51" concept="6" />
+      <node id="4031479720643384434" at="77,29,78,42" concept="6" />
+      <node id="4031479720643384444" at="79,38,80,51" concept="6" />
+      <node id="4031479720643384455" at="81,27,82,40" concept="6" />
+      <node id="4031479720643384467" at="83,23,84,36" concept="6" />
+      <node id="4031479720643384480" at="85,27,86,40" concept="6" />
+      <node id="4031479720643384494" at="87,27,88,40" concept="6" />
+      <node id="4031479720643384509" at="89,21,90,34" concept="6" />
+      <node id="4031479720643384525" at="91,26,92,39" concept="6" />
+      <node id="4031479720643384542" at="93,22,94,35" concept="6" />
+      <node id="4031479720643521010" at="95,21,96,34" concept="6" />
+      <node id="4031479720643521029" at="97,22,98,35" concept="6" />
+      <node id="4031479720643521049" at="99,21,100,34" concept="6" />
+      <node id="4031479720643384369" at="101,5,102,16" concept="6" />
+      <node id="4031479720643384369" at="107,73,108,39" concept="5" />
+      <node id="4031479720643384369" at="109,22,110,18" concept="6" />
+      <node id="4031479720643384369" at="111,5,112,32" concept="6" />
+      <node id="4031479720643384369" at="14,0,17,0" concept="0" trace="EnumerationDescriptor_Positions#()V" />
+      <node id="4031479720643384369" at="56,88,59,5" concept="3" />
+      <node id="4031479720643384369" at="108,39,111,5" concept="3" />
+      <node id="4031479720643384369" at="42,0,47,0" concept="4" trace="getDefault#()Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="4031479720643384369" at="48,0,53,0" concept="4" trace="getMembers#()Ljava/util/List;" />
+      <node id="4031479720643384369" at="105,0,114,0" concept="4" trace="getMember#(J)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="4031479720643384369" at="59,5,101,5" concept="10" />
+      <node id="4031479720643384369" at="54,0,104,0" concept="4" trace="getMember#(Ljava/lang/String;)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <scope id="4031479720643384369" at="14,44,15,168" />
+      <scope id="4031479720643384369" at="44,62,45,16" />
+      <scope id="4031479720643384369" at="50,68,51,21" />
+      <scope id="4031479720643384369" at="57,29,58,18" />
+      <scope id="4031479720643384370" at="61,24,62,37" />
+      <scope id="4031479720643384375" at="63,23,64,36" />
+      <scope id="4031479720643384381" at="65,27,66,40" />
+      <scope id="4031479720643384385" at="67,22,68,35" />
+      <scope id="4031479720643384390" at="69,26,70,39" />
+      <scope id="4031479720643384396" at="71,21,72,34" />
+      <scope id="4031479720643384417" at="73,24,74,37" />
+      <scope id="4031479720643384425" at="75,38,76,51" />
+      <scope id="4031479720643384434" at="77,29,78,42" />
+      <scope id="4031479720643384444" at="79,38,80,51" />
+      <scope id="4031479720643384455" at="81,27,82,40" />
+      <scope id="4031479720643384467" at="83,23,84,36" />
+      <scope id="4031479720643384480" at="85,27,86,40" />
+      <scope id="4031479720643384494" at="87,27,88,40" />
+      <scope id="4031479720643384509" at="89,21,90,34" />
+      <scope id="4031479720643384525" at="91,26,92,39" />
+      <scope id="4031479720643384542" at="93,22,94,35" />
+      <scope id="4031479720643521010" at="95,21,96,34" />
+      <scope id="4031479720643521029" at="97,22,98,35" />
+      <scope id="4031479720643521049" at="99,21,100,34" />
+      <scope id="4031479720643384369" at="109,22,110,18" />
+      <scope id="4031479720643384369" at="14,0,17,0" />
+      <scope id="4031479720643384369" at="42,0,47,0" />
+      <scope id="4031479720643384369" at="48,0,53,0" />
+      <scope id="4031479720643384369" at="107,73,112,32">
+        <var name="index" id="4031479720643384369" />
+      </scope>
+      <scope id="4031479720643384369" at="105,0,114,0">
+        <var name="idValue" id="4031479720643384369" />
+      </scope>
+      <scope id="4031479720643384369" at="56,88,102,16" />
+      <scope id="4031479720643384369" at="54,0,104,0">
+        <var name="memberName" id="4031479720643384369" />
+      </scope>
+      <unit id="4031479720643384369" at="12,0,115,0" name="Football.structure.EnumerationDescriptor_Positions" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4031479720643384369" at="29,0,30,0" concept="2" trace="myEnumerationPositions" />
+    </file>
+  </root>
+  <root nodeRef="r:773d5fe7-79b0-4318-a269-1850a325c198(Football.structure)/4031479720643543704">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4031479720643543704" at="13,0,14,0" concept="2" trace="props_Coach" />
+      <node id="4031479720643543704" at="33,34,34,76" concept="5" />
+      <node id="4031479720643543704" at="34,76,35,39" concept="1" />
+      <node id="4031479720643543704" at="35,39,36,37" concept="1" />
+      <node id="4031479720643543704" at="37,9,38,27" concept="6" />
+      <node id="4031479720643543704" at="32,39,37,9" concept="3" />
+      <scope id="4031479720643543704" at="33,34,36,37">
+        <var name="cpb" id="4031479720643543704" />
+      </scope>
+      <scope id="4031479720643543704" at="32,39,38,27" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4031479720643543704" at="13,0,14,0" concept="7" trace="Coach" />
+      <node id="4031479720643543704" at="22,44,23,44" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4031479720643543704" at="20,0,21,0" concept="2" trace="myConceptCoach" />
+      <node id="4031479720643543704" at="53,39,54,30" concept="6" />
+      <node id="4031479720643543704" at="91,63,92,148" concept="5" />
+      <node id="4031479720643543704" at="92,148,93,34" concept="1" />
+      <node id="4031479720643543704" at="93,34,94,95" concept="1" />
+      <node id="4031479720643543704" at="94,95,95,17" concept="1" />
+      <node id="4031479720643543705" at="95,17,96,115" concept="1" />
+      <node id="4031479720643543707" at="96,115,97,113" concept="1" />
+      <node id="4031479720643543704" at="97,113,98,22" concept="6" />
+      <node id="4031479720643543704" at="91,0,100,0" concept="8" trace="createDescriptorForCoach#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4031479720643543704" at="53,39,54,30" />
+      <scope id="4031479720643543704" at="91,63,98,22">
+        <var name="b" id="4031479720643543704" />
+      </scope>
+      <scope id="4031479720643543704" at="91,0,100,0" />
+    </file>
+  </root>
+  <root nodeRef="r:773d5fe7-79b0-4318-a269-1850a325c198(Football.structure)/4031479720644054485">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4031479720644054485" at="14,0,15,0" concept="2" trace="props_Field" />
+      <node id="4031479720644054485" at="40,34,41,76" concept="5" />
+      <node id="4031479720644054485" at="41,76,42,39" concept="1" />
+      <node id="4031479720644054485" at="42,39,43,37" concept="1" />
+      <node id="4031479720644054485" at="44,9,45,27" concept="6" />
+      <node id="4031479720644054485" at="39,39,44,9" concept="3" />
+      <scope id="4031479720644054485" at="40,34,43,37">
+        <var name="cpb" id="4031479720644054485" />
+      </scope>
+      <scope id="4031479720644054485" at="39,39,45,27" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4031479720644054485" at="14,0,15,0" concept="7" trace="Field" />
+      <node id="4031479720644054485" at="23,44,24,44" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4031479720644054485" at="21,0,22,0" concept="2" trace="myConceptField" />
+      <node id="4031479720644054485" at="55,39,56,30" concept="6" />
+      <node id="4031479720644054485" at="100,63,101,148" concept="5" />
+      <node id="4031479720644054485" at="101,148,102,34" concept="1" />
+      <node id="4031479720644054485" at="102,34,103,95" concept="1" />
+      <node id="4031479720644054485" at="103,95,104,17" concept="1" />
+      <node id="4031479720643290726" at="104,17,105,181" concept="1" />
+      <node id="4031479720643307953" at="105,181,106,181" concept="1" />
+      <node id="4031479720644054485" at="106,181,107,22" concept="6" />
+      <node id="4031479720644054485" at="100,0,109,0" concept="8" trace="createDescriptorForField#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4031479720644054485" at="55,39,56,30" />
+      <scope id="4031479720644054485" at="100,63,107,22">
+        <var name="b" id="4031479720644054485" />
+      </scope>
+      <scope id="4031479720644054485" at="100,0,109,0" />
+    </file>
+  </root>
+  <root nodeRef="r:773d5fe7-79b0-4318-a269-1850a325c198(Football.structure)/4031479720644310472">
+    <file name="ConceptPresentationAspectImpl.java">
+      <node id="4031479720644310472" at="15,0,16,0" concept="2" trace="props_Lineup" />
+      <node id="4031479720644310472" at="47,35,48,76" concept="5" />
+      <node id="4031479720644310472" at="48,76,49,40" concept="1" />
+      <node id="4031479720644310472" at="49,40,50,38" concept="1" />
+      <node id="4031479720644310472" at="51,9,52,28" concept="6" />
+      <node id="4031479720644310472" at="46,40,51,9" concept="3" />
+      <scope id="4031479720644310472" at="47,35,50,38">
+        <var name="cpb" id="4031479720644310472" />
+      </scope>
+      <scope id="4031479720644310472" at="46,40,52,28" />
+    </file>
+    <file name="LanguageConceptSwitch.java">
+      <node id="4031479720644310472" at="15,0,16,0" concept="7" trace="Lineup" />
+      <node id="4031479720644310472" at="24,44,25,45" concept="1" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4031479720644310472" at="22,0,23,0" concept="2" trace="myConceptLineup" />
+      <node id="4031479720644310472" at="57,40,58,31" concept="6" />
+      <node id="4031479720644310472" at="109,64,110,149" concept="5" />
+      <node id="4031479720644310472" at="110,149,111,33" concept="1" />
+      <node id="4031479720644310472" at="111,33,112,95" concept="1" />
+      <node id="4031479720644310472" at="112,95,113,17" concept="1" />
+      <node id="4031479720644310472" at="113,17,114,22" concept="1" />
+      <node id="4031479720644310472" at="114,22,115,22" concept="6" />
+      <node id="4031479720644310472" at="109,0,117,0" concept="8" trace="createDescriptorForLineup#()Ljetbrains/mps/smodel/runtime/ConceptDescriptor;" />
+      <scope id="4031479720644310472" at="57,40,58,31" />
+      <scope id="4031479720644310472" at="109,64,115,22">
+        <var name="b" id="4031479720644310472" />
+      </scope>
+      <scope id="4031479720644310472" at="109,0,117,0" />
+    </file>
+  </root>
+  <root nodeRef="r:773d5fe7-79b0-4318-a269-1850a325c198(Football.structure)/4031479720645897103">
+    <file name="EnumerationDescriptor_Formations.java">
+      <node id="4031479720645897103" at="14,45,15,169" concept="9" />
+      <node id="4031479720645897104" at="18,0,19,0" concept="2" trace="myMember_FourThreeThree_0" />
+      <node id="4031479720645897111" at="19,0,20,0" concept="2" trace="myMember_ThreeFiveTwo_0" />
+      <node id="4031479720645897106" at="20,0,21,0" concept="2" trace="myMember_FourTwoThreeOne_0" />
+      <node id="4031479720645897116" at="21,0,22,0" concept="2" trace="myMember_FourFourTwo_0" />
+      <node id="4031479720645897122" at="22,0,23,0" concept="2" trace="myMember_FourThreeTwoOne_0" />
+      <node id="4031479720645897128" at="23,0,24,0" concept="2" trace="myMember_FourFiveOne_0" />
+      <node id="4031479720645897135" at="24,0,25,0" concept="2" trace="myMember_ThreeFourThree_0" />
+      <node id="4031479720645897143" at="25,0,26,0" concept="2" trace="myMember_FourOneThreeTwo_0" />
+      <node id="4031479720645897152" at="26,0,27,0" concept="2" trace="myMember_FourOneTwoOneTwo_0" />
+      <node id="4031479720645897103" at="28,0,29,0" concept="2" trace="myIndex" />
+      <node id="4031479720645897103" at="29,0,30,0" concept="2" trace="myMembers" />
+      <node id="4031479720645897103" at="33,62,34,37" concept="6" />
+      <node id="4031479720645897103" at="39,68,40,21" concept="6" />
+      <node id="4031479720645897103" at="46,29,47,18" concept="6" />
+      <node id="4031479720645897104" at="50,28,51,41" concept="6" />
+      <node id="4031479720645897111" at="52,26,53,39" concept="6" />
+      <node id="4031479720645897106" at="54,29,55,42" concept="6" />
+      <node id="4031479720645897116" at="56,25,57,38" concept="6" />
+      <node id="4031479720645897122" at="58,29,59,42" concept="6" />
+      <node id="4031479720645897128" at="60,25,61,38" concept="6" />
+      <node id="4031479720645897135" at="62,28,63,41" concept="6" />
+      <node id="4031479720645897143" at="64,29,65,42" concept="6" />
+      <node id="4031479720645897152" at="66,30,67,43" concept="6" />
+      <node id="4031479720645897103" at="68,5,69,16" concept="6" />
+      <node id="4031479720645897103" at="74,73,75,39" concept="5" />
+      <node id="4031479720645897103" at="76,22,77,18" concept="6" />
+      <node id="4031479720645897103" at="78,5,79,32" concept="6" />
+      <node id="4031479720645897103" at="14,0,17,0" concept="0" trace="EnumerationDescriptor_Formations#()V" />
+      <node id="4031479720645897103" at="45,88,48,5" concept="3" />
+      <node id="4031479720645897103" at="75,39,78,5" concept="3" />
+      <node id="4031479720645897103" at="31,0,36,0" concept="4" trace="getDefault#()Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="4031479720645897103" at="37,0,42,0" concept="4" trace="getMembers#()Ljava/util/List;" />
+      <node id="4031479720645897103" at="72,0,81,0" concept="4" trace="getMember#(J)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <node id="4031479720645897103" at="48,5,68,5" concept="10" />
+      <node id="4031479720645897103" at="43,0,71,0" concept="4" trace="getMember#(Ljava/lang/String;)Ljetbrains/mps/smodel/runtime/EnumerationDescriptor/MemberDescriptor;" />
+      <scope id="4031479720645897103" at="14,45,15,169" />
+      <scope id="4031479720645897103" at="33,62,34,37" />
+      <scope id="4031479720645897103" at="39,68,40,21" />
+      <scope id="4031479720645897103" at="46,29,47,18" />
+      <scope id="4031479720645897104" at="50,28,51,41" />
+      <scope id="4031479720645897111" at="52,26,53,39" />
+      <scope id="4031479720645897106" at="54,29,55,42" />
+      <scope id="4031479720645897116" at="56,25,57,38" />
+      <scope id="4031479720645897122" at="58,29,59,42" />
+      <scope id="4031479720645897128" at="60,25,61,38" />
+      <scope id="4031479720645897135" at="62,28,63,41" />
+      <scope id="4031479720645897143" at="64,29,65,42" />
+      <scope id="4031479720645897152" at="66,30,67,43" />
+      <scope id="4031479720645897103" at="76,22,77,18" />
+      <scope id="4031479720645897103" at="14,0,17,0" />
+      <scope id="4031479720645897103" at="31,0,36,0" />
+      <scope id="4031479720645897103" at="37,0,42,0" />
+      <scope id="4031479720645897103" at="74,73,79,32">
+        <var name="index" id="4031479720645897103" />
+      </scope>
+      <scope id="4031479720645897103" at="72,0,81,0">
+        <var name="idValue" id="4031479720645897103" />
+      </scope>
+      <scope id="4031479720645897103" at="45,88,69,16" />
+      <scope id="4031479720645897103" at="43,0,71,0">
+        <var name="memberName" id="4031479720645897103" />
+      </scope>
+      <unit id="4031479720645897103" at="12,0,82,0" name="Football.structure.EnumerationDescriptor_Formations" />
+    </file>
+    <file name="StructureAspectDescriptor.java">
+      <node id="4031479720645897103" at="28,0,29,0" concept="2" trace="myEnumerationFormations" />
+    </file>
+  </root>
+</debug-info>
+
